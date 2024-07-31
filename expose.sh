@@ -1,0 +1,1 @@
+ngrok http --domain=YOURNAMEHERE.ngrok-free.app 8000
