@@ -1,0 +1,17 @@
+{
+  "name": "kookaburra.chat",
+  "version": "1.0.0",
+  "description": "Your own local friend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsx index.ts",
+    "expose": "./expose.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "ollama": "^0.5.6"
+  }
+}
